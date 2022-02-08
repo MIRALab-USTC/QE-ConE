@@ -20,7 +20,7 @@ Zhanqiu Zhang, Jie Wang, Jiajun Chen, Shuiwang Ji, Feng Wu. NeurIPS 2021. [[arXi
 If you find this code useful, please consider citing the following paper.
 ```
 @inproceedings{NEURIPS2021_QECONE,
- author = {Zhang, Zhanqiu and Wang, Jie and Jiajun, Chen and Shuiwang, Ji and Feng, Wu},
+ author = {Zhanqiu Zhang and Jie Wang and Jiajun Chen and Shuiwang Ji and Feng Wu},
  booktitle = {Advances in Neural Information Processing Systems},
  title = {ConE: Cone Embeddings for Multi-Hop Reasoning over Knowledge Graphs},
  year = {2021}
